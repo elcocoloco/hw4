@@ -1,0 +1,51 @@
+.content{
+  overflow: hidden;
+
+  width:1000px;
+}
+
+.info{
+  float: left;
+
+  width: 210px;
+  margin-bottom: -20000px;
+  padding-bottom: 20000px;
+
+  background-color: #edeef0;
+}
+
+.central{
+  float: left;
+
+  width: 580px;
+  margin-bottom: -20000px;
+  padding-bottom: 20000px;
+
+}
+.news{
+  float: left;
+
+  width: 210px;
+  margin-bottom: -20000px;
+  padding-bottom: 20000px;
+
+  background-color: #edeef0;
+}
+
+h2{
+  padding-top: 10px;
+  padding-bottom: 10px;
+
+  text-align: center;
+
+  color: #424c43;
+
+  font-size: 18px;
+}
+
+p{
+  text-indent: 15px;
+
+  font-size: 14px;
+  line-height: 25px;
+}
